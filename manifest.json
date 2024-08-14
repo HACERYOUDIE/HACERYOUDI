@@ -1,0 +1,21 @@
+{
+  "name": "HACERYOUDIE",
+  "short_name": "HACERYOUDIE",
+  "description": "موقع الكتروني لمشاهدة افضل فيديوهات شخصيتكم المفضلة هكريوداي",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "https://dso2.raed.net:454/files/sketch-1723376198486.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://dso2.raed.net:454/files/sketch-1723376198486.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
